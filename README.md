@@ -1,29 +1,25 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> The only goal here is to master all the tools and best practices you learned in the previous steps because I will be using them on all my upcoming Microverse projects.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
-
+<!--
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -39,22 +35,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -65,11 +45,14 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+-->
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+## Authors
+
+👤 **Author**
+
+- GitHub: [@githubhandle](https://github.com/Bondok6)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 📝 License
 
