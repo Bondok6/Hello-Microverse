@@ -2,7 +2,7 @@
 
 # Hello Microverse
 
-> The only goal here is to master all the tools and best practices you learned in the previous steps because I will be using them on all my upcoming Microverse projects.
+> The only goal here is to master all the tools and best practices I learned in the previous steps because I will be using them on all my upcoming Microverse projects.
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://bondok6.github.io/Hello-Microverse/)
 
 <!--
 ## Getting Started
