@@ -51,8 +51,8 @@ Give a ⭐️ if you like this project!
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/Bondok6)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Bondok6](https://github.com/Bondok6)
+- LinkedIn: [Kyrillos](https://www.linkedin.com/in/kyrillos-hany/)
 
 ## 📝 License
 
